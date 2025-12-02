@@ -1,8 +1,8 @@
-# Bootstrap4
+# B4
 
 ## Description
 
-Bootstrap4 is a starter template using Bootstrap 4 — a simple foundation for building responsive, modern static websites. It helps you quickly launch landing pages, portfolios, or small projects without heavy setup.
+B4 is a starter template using Bootstrap 4 — a simple foundation for building responsive, modern static websites. It helps you quickly launch landing pages, portfolios, or small projects without heavy setup.
 
 ## Why Use Bootstrap4
 
