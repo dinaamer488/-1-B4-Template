@@ -62,7 +62,3 @@ Created and maintained by Dina Amer — GitHub: https://github.com/dinaamer488
 License
 
 This project is released under the MIT License.
-
-
-If you like, I can also **add badges** (e.g. license, last update), a **table of contents**, or **live-demo link** section (if you host it).
-::contentReference[oaicite:2]{index=2}
